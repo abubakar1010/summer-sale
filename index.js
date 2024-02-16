@@ -74,5 +74,6 @@ discountButton.addEventListener('click', function(){
 
     }
 
+    inputField.value = ""
 
 })
